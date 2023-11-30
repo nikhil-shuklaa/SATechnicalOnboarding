@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "QnAi-Ask2PDFs - Chat with your multiple PDFs",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The QnAi Chat App is a Python application designed for conversing with multiple PDF documents. Using natural language, you can ask questions about the PDFs, and the app will generate relevant responses based on the document content.",
+    url: "https://github.com/nikhil-shuklaa/QnAi-Ask2PDFs",
   },
   {
-    title: "Web Development for Beginners",
+    title: "LAMBDA- Attendance System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Attendance System-LAMBDA is a real-time attendance system that uses face detection technology to track attendance in a database. The system works by capturing live video of individuals and comparing them to images in a pre-existing encoded database to determine if they are authorized or not. if they are, them attandance will be marked.",
+    url: "https://github.com/nikhil-shuklaa/RealtimeDatabaseFaceDetectionAttendanceSystem-LAMBDA",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Visit my resume site to learn more about me and my work.",
+    url: "https://bit.ly/nikhil_dev",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "HelpingGeeks - A startup by me",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "HelpingGeeks is a one-stop solution for all the help you need. We offer digital marketing services, web development services, and more! Visit our website to learn more.",
+    url: "https://helpinggeeks.com",
   },
 ];
 
